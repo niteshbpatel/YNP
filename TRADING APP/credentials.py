@@ -1,0 +1,1 @@
+.venv\Scripts\python -m py_compile main.py credentials.py
